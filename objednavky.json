@@ -5,7 +5,7 @@
         "id": "OBJ-0001",
         "poznamka": "test tpu",
         "produkt": "test",
-        "stav": "🔄 Zpracovává se",
+        "stav": "✅ Hotová",
         "zakaznik_id": "C20260405124932"
     }
 ]
