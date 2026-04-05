@@ -1,13 +1,1 @@
-[
-    {
-        "adresa": "Admin 188",
-        "datum": "05.04.2026",
-        "email": "tomino.records@gmail.com",
-        "heslo": "63e24d49acc3e43c326292d68b38a5cba9ffeef09c3282928469718c4776e6db",
-        "id": "C20260405114035",
-        "jmeno": "Admin",
-        "poznamka": "",
-        "telefon": "TEST2",
-        "role": "zákazník"
-    }
-]
+[{"adresa":"Admin 188","datum":"05.04.2026","email":"tomino.records@gmail.com","heslo":"63e24d49acc3e43c326292d68b38a5cba9ffeef09c3282928469718c4776e6db","id":"C20260405114035","jmeno":"Admin","poznamka":"","telefon":"TEST3","role":"zákazník"}]
