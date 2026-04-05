@@ -1,1 +1,38 @@
-[{"cena":1.23456782E8,"datum":"08.04.2026","id":"OBJ-0001","poznamka":"test12345678@c.us","produkt":"test12345678@c.us","stav":"🆕 Nová","zakaznik_id":""},{"cena":1.23456782E8,"datum":"08.04.2026","id":"OBJ-0002","poznamka":"test12345678@c.us","produkt":"test12345678@c.us","stav":"🆕 Nová","zakaznik_id":""},{"cena":0.0,"datum":"05.04.2026","id":"OBJ-0003","poznamka":"","produkt":"Test","stav":"🆕 Nová","zakaznik_id":"C20260405114035"},{"cena":677.0,"datum":"05.04.2026","id":"OBJ-0004","poznamka":"TeST 2 pla","produkt":"TeST 2","stav":"🆕 Nová","zakaznik_id":"C20260405114035"}]
+[
+    {
+        "cena": 123456782.0,
+        "datum": "08.04.2026",
+        "id": "OBJ-0001",
+        "poznamka": "test12345678@c.us",
+        "produkt": "test12345678@c.us",
+        "stav": "🆕 Nová",
+        "zakaznik_id": ""
+    },
+    {
+        "cena": 123456782.0,
+        "datum": "08.04.2026",
+        "id": "OBJ-0002",
+        "poznamka": "test12345678@c.us",
+        "produkt": "test12345678@c.us",
+        "stav": "🆕 Nová",
+        "zakaznik_id": ""
+    },
+    {
+        "cena": 0.0,
+        "datum": "05.04.2026",
+        "id": "OBJ-0003",
+        "poznamka": "",
+        "produkt": "Test",
+        "stav": "🆕 Nová",
+        "zakaznik_id": "C20260405114035"
+    },
+    {
+        "cena": 677.0,
+        "datum": "05.04.2026",
+        "id": "OBJ-0004",
+        "poznamka": "TeST 2 pla",
+        "produkt": "TeST 2",
+        "stav": "✅ Hotová",
+        "zakaznik_id": "C20260405114035"
+    }
+]
